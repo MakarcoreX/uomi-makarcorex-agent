@@ -1,0 +1,12 @@
+{
+  "inputSchema": {
+    "type": "object",
+    "properties": { "input": { "type": "string" } },
+    "required": ["input"]
+  },
+  "outputSchema": {
+    "type": "object",
+    "properties": { "output": { "type": "string" } },
+    "required": ["output"]
+  }
+}
