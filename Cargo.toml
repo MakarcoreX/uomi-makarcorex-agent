@@ -8,5 +8,4 @@ lto = true
 opt-level = "z"
 strip = true
 
-[lib]
-crate-type = ["cdylib"]
+
