@@ -1,4 +1,5 @@
 //! Minimal UOMI agent: copy input to output via runtime FFI.
+//! Updated via WASP v0.1.2 (no-op)
 
 #[no_mangle]
 pub extern "C" fn process() {
